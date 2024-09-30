@@ -8,6 +8,8 @@ An IKC asset with quality scores is required. A separate, matching data quality 
 is required, with all SLA names prefixed with "DBInt", plus a separate one for the "Overall" dimension,
 identified by "Overall" in its name.
 
+Last verified with IBM Knowledge Catalog 5.0.3 and IBM Databand 1.0.104.3.
+
 To run the demo, create a `config.properties` file in the root folder with this content:
 
 ```
