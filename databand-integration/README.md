@@ -10,7 +10,9 @@ identified by "Overall" in its name.
 
 Last verified with IBM Knowledge Catalog 5.0.3 and IBM Databand 1.0.104.3.
 
-To run the demo, create a `config.properties` file in the root folder with this content:
+The demo runs standalone and connects to IKC and Databand via HTTP.
+
+To run the code, create a `config.properties` file in the root folder with this content:
 
 ```
 # IKC host URL, e.g. https://cpd-wkc.apps.ikchost.com
